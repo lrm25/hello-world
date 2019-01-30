@@ -1,3 +1,5 @@
 # hello-world
 
-Behold ... me.
+## scripts
+
+A collection of miscellaneous small scripts that I've created
